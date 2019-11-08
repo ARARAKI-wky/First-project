@@ -1,0 +1,52 @@
+.qm-top-cont{
+	width: 92%;
+	text-align: left;
+	background-color: white;
+	margin-left:4%;
+	margin-top:3%;
+	padding-right: 5px!important;
+	border-radius: 5px;
+	border: 2px solid rgb(6,110,188);
+	font-family: Source Han Sans CN Medium;
+	behavior: url(css/PIE.htc);
+	
+
+}
+.qm-top-cont img{
+	margin-top: 20px;
+}
+.qm-top-cont p{
+	font-size: 12px;
+	font-family: Source Han Sans CN Medium;
+	margin-left: -5%;
+	width: 110%;
+	behavior: url(css/PIE.htc);
+
+}
+.qm-middle-cont{
+	width: 92%;
+	text-align: left;
+	background-color: white;
+	margin-left:4%;
+	margin-top:3%;
+	padding: 2px!important;
+	border-radius: 5px;
+	border: 2px solid rgb(6,110,188);
+	padding: 1%!important;
+	font-family: Source Han Sans CN Medium;
+	height: 250px;
+	behavior: url(css/PIE.htc);
+}
+.qm-bottom-cont{
+	width: 92%;
+	text-align: left;
+	background-color: white;
+	margin-left:4%;
+	margin-top:3%;
+	padding: 2px!important;
+	border-radius: 5px;
+	border: 2px solid rgb(6,110,188);
+	padding: 5%!important;
+	font-family: Source Han Sans CN Medium;
+	behavior: url(css/PIE.htc);
+}

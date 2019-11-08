@@ -1,0 +1,108 @@
+.top-col img{
+	display:block;
+	margin: 1% auto;	
+}
+.top-col span{
+	display: inline-block;
+	text-align:center;
+	width: 100%;
+	font-size: 14px;
+}
+.y-product tr{
+	text-align: center;
+	vertical-align: middle;
+	margin:  5% auto;
+}
+.y-product td{
+	padding:0.7%;
+}
+table{
+	font-size:16px;
+
+}
+
+ .tit,.tit1{
+	-webkit-transition: all .5s;   
+            -moz-transition: all .5s;   
+            -ms-transition: all .5s;   
+            -o-transition: all .5s;   
+            transition: all .5s; 
+             color: rgb(102, 102, 102);
+
+}
+
+.xly .tit1{
+	   border-bottom: 1px solid  rgb(153, 153, 153);
+	   width: 90%
+}
+
+ .tit2,.tit3{
+	-webkit-transition: all .5s;   
+            -moz-transition: all .5s;   
+            -ms-transition: all .5s;   
+            -o-transition: all .5s;   
+            transition: all .5s; 
+             color: rgb(102, 102, 102);
+}
+
+.jp .tit2{
+	   border-bottom: 1px solid  rgb(153, 153, 153);
+	   width: 90%
+}
+
+.xly:hover .tit{
+	color:  rgb(51, 102, 255);
+}
+
+.xly img{
+	-webkit-transition: all .5s;   
+            -moz-transition: all .5s;   
+            -ms-transition: all .5s;   
+            -o-transition: all .5s;   
+            transition: all .5s; 
+             color: rgb(102, 102, 102); 
+}
+
+.xly:hover img{
+	transform: scale(1.2);	
+}
+.jp img{
+	-webkit-transition: all .5s;   
+            -moz-transition: all .5s;   
+            -ms-transition: all .5s;   
+            -o-transition: all .5s;   
+            transition: all .5s; 
+             color: rgb(102, 102, 102); 
+}
+
+.jp:hover img{
+	transform: scale(1.2);
+	
+}
+
+.jp:hover .tit3{
+	color:  rgb(51, 102, 255);
+
+}
+
+.xly:hover .tit1{
+	color:  rgb(51, 102, 255);
+	border-bottom: 1px solid rgb(51, 102, 255);
+
+}
+.jp:hover .tit2{
+	color:  rgb(51, 102, 255);
+	border-bottom: 1px solid rgb(51, 102, 255);
+
+}
+
+.y-top-intro{
+	font-size: 14px;color: white
+}
+
+.y-bottom-intro{
+	 font-family: SourceHanSansCN;color:#666;line-height: 2;font-size: 14px;margin-top: 5%;margin-right: 10%
+}
+.y-middle-pic{
+	padding-bottom: 3%
+}

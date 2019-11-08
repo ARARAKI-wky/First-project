@@ -1,0 +1,191 @@
+.dsk-top{
+	margin-top: 2%;
+	width: 100%;
+	text-align: center;
+}
+.dsk-top div{
+	float: left;
+}
+
+.dsk-top a{
+	margin: 2% 11%;
+	text-decoration: none;
+	color: black;
+	font-size: 16px;
+}
+
+.dsk-top .active{
+	color: #3366FF;
+}
+
+.dsk-top a:hover{
+	color: #3366FF;
+}
+
+.ai{
+	margin-top: 5%;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	height: 100%;
+
+}
+
+.ai .ai-title{
+	margin: 3% 3%;
+	font-size: 16px;
+	color: black;
+}
+
+.ai p{
+	margin: 3% 3%;
+	font-size: 12px;
+		color: rgb(153, 153, 153);
+}
+
+.ai .shadow{
+	color: white;
+	height: 78%;
+	width: 95%;
+	position: absolute;
+	opacity: 1;
+	transition: 0.6s;
+	top: -78%;
+
+}
+
+.ai .shadow p{
+	font-size: 14px;
+	width: 72%;
+	margin: 15% auto;
+	text-align: center;
+	color: white;	
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+.ai:hover .shadow{
+	opacity: 0.8;
+	transform: translate(0,100%);
+	background-color: rgb(51, 102, 255) ;
+}
+
+.ai:hover .ai-title{
+	color:  rgb(51, 102, 255) ;
+	transition:0.6s; 
+}
+
+.underl{
+	width: 100%;
+	height: 2px;
+	background-color: #BFBBBB;
+}
+
+.ai:hover .underl{
+	transition: 0.6s;
+	background-color: rgb(51, 102, 255);
+}
+
+.boxsd{
+	box-shadow:  0px 25px 15px 2px#999 ;
+}
+
+.suit{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	
+}
+
+.suit h3{
+	letter-spacing: 2px;
+	color: rgb(65, 105, 233);
+}
+
+.suit .suit-title{
+	font-family: "Adobe Heiti Std";
+	color: rgb(153, 153, 153);
+	margin-top: 2%;
+	letter-spacing: 0px;
+	font-size: 16px;
+}
+
+.suit p{
+	line-height: 2;
+	letter-spacing: 2px;
+	color: rgb(102, 102, 102);
+	font-size: 14px;
+	margin-top: 2%;
+}
+
+
+.ai .b-shadow{
+	color: white;
+	height: 72%;
+	width: 92.2%;
+	position: absolute;
+	opacity: 1;
+	transition: 0.6s;
+	top: -72%;
+
+}
+
+.ai:hover .b-shadow{
+	opacity: 0.8;
+	transform: translate(0,100%);
+	background-color: rgb(51, 102, 255) ;
+}
+
+.ai:hover .b-title{
+		transition: 0.6s;
+		color:  rgb(51, 102, 255) ;
+}
+
+.b-shadow p{
+	font-size: 14px;
+	margin: 7% auto;
+	color:white;
+	line-height: 1.5;
+	letter-spacing: 2px;
+	text-align: center;
+	width: 75%;
+}
+
+.ai .b-title{
+	margin: 5% 5%;
+	color: black;
+	font-size: 16px;
+}
+.d-btn-group{
+	width: 40%;
+	text-align: center;
+}
+.d-btn-group a{
+	text-align: center;
+}
+.d-top{
+	padding-bottom: 5%;padding-top: 2%;
+}
+.d-top-cont{
+	width: 50%
+}
+.d-top-tit{
+	 letter-spacing: 3px;margin-top: 10%;color: rgb(65, 105, 233)
+}
+.d-top-tit2{
+	color: rgb(153, 153, 153);font-family: Adobe Heiti Std;margin-top: 3%;font-size: 14px;
+}
+.d-top-tit2 span{
+	 border-bottom: 3px solid #3366ff;padding-bottom: 1%;
+}
+.d-top-intro{
+	color: rgb(102, 102, 102);text-transform: uppercase;margin-top: 8%;width: 8 0%;font-size: 14px;letter-spacing: 2px;line-height: 2.5;
+}
+.dsk-top .d-top-pic1{
+text-align: left;
+width: 30%
+}
+.dsk-top .d-top-pic2{
+	text-align: right;
+	width: 30%
+}
+

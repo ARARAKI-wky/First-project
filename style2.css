@@ -1,0 +1,337 @@
+	
+	.navbar-default .navbar-nav{
+         width: 90%;
+         background: white;
+      }  
+
+      .nav > li > a{
+      	padding: 10px 10px;
+      }
+      .zk_huadong{
+      	color: black
+      }
+
+		.navbar-right {	
+		    float: right !important;
+		    margin-right: -55px;
+		}
+		.collapse ul, li{
+			margin-top: -5%;
+
+		}
+		.tel{
+			margin-top: -5%
+		}
+		#loge{
+			width: 65%;
+			margin-top: 10px;
+		}
+		.navbar-brand{
+			margin-top: 1%;
+			margin-bottom: -5%
+		}
+		.navbar-default .navbar-nav > li >a{
+			padding-bottom: 21%;
+		}
+		.dropdown-menu{
+			min-width: 101px;
+		}
+		.dropdown-menu li{
+			margin-top: 2%
+		}
+		/*index样式*/
+		.software-t1{
+			width: 60%;
+			margin-left:35%
+		}
+		.software-t2{
+			width: 100%;
+			margin-left:-5%
+		}
+		.software{
+			width: 55%
+		}
+		.dsk1{
+			margin-right: 45%
+		}
+		.introduct1{
+			margin-top:-13%
+		}
+		.news-pic1{
+			margin-top: -20%
+		}
+		.introduct2{
+			margin-top: -10%
+		}
+		.news-pic2{
+			margin-top: -100%
+		}
+		.introduct3{
+			margin-top: -15%;
+			width:100%;
+		}
+		.cont3-t1{
+			width: 30%
+		}
+		.news-pic3{
+			margin-top: -45%;
+			width: 10.5%
+		}
+		.news-bg{
+			height: 600px;
+		}
+		.mark{
+			width: 16%;
+			margin-left: -0.5%
+		}
+		.mark span{
+			margin-left: 15%
+		}
+		.mark .ball{
+			width: 25%;
+			height: 80%;
+			margin-left: -2%
+		}
+		.mark2{
+			margin-top: 10%;
+			width: 50%;
+			margin-right: -1%
+		}
+		.mark2 span{
+			margin-left: -8%
+		}
+		.mark2 .ball{
+			width: 25%;
+			height: 80%;
+			margin-right: -3%
+		}
+
+		.mark3{
+			margin-top: 3%;
+			width: 16%;
+			margin-left: -0.5%
+		}
+		.mark3 span{
+			margin-left: 12%;
+		}
+		.mark3 .ball{
+			width: 25%;
+			height: 80%;
+			margin-left: -2%
+		}
+			.bottom div img{
+				text-align: center;
+				padding-top: 5%
+			}
+			.rt{
+				margin-top: 30%;
+				margin-left:95%;
+			}
+			.lt{
+				margin-top: 30%
+			}
+			/*bianchengruanjian样式*/
+			
+			.b-top-pic1{
+				margin-top: 15%;
+				padding-top: 7%
+			}
+			.b-top-pic2{
+				padding-right: 5%
+			}
+			
+			.b-top-title {
+				font-size: 20px;
+				width: 300%;
+				position:absolute;
+				z-index: 100;
+				margin-top: 10%;
+				margin-left: -20%			}
+			.b-top-title2{
+				position: absolute;
+				z-index: 101;
+				margin-top: 15%;
+				margin-left: -20%;
+				width: 30%
+			}
+			.b-inner{
+				margin-top: -30%
+			}
+			.b-dsk-title2 {
+				width: 60%
+			}
+			.b-dsk-intro{
+				width:88%
+			}
+			.b-dsk-intro2{
+				width: 90%
+			}
+			.b-dsk-title{
+				width: 21%;
+				font-family: Source Han Sans CN Regular;
+				font-weight: normal;
+			}
+			.b-qkl-title{
+				width: 20%;
+				font-family: Source Han Sans CN Regular;
+				font-weight: normal;
+			}
+			.b-bottom-title{
+				width: 23%;
+				font-family: Source Han Sans CN Regular;
+				font-weight: normal;
+			}
+			.b-qkl-intro{
+				width: 90%;
+			}
+			.tel{
+				margin-top: 2%
+			}
+			.tel img{
+				width: 40%
+			}
+			.foot-list{
+				font-size: 12px;
+				letter-spacing: 0px;
+			}
+			/*lesson样式*/
+			.t-content{
+				width: 120%;
+				margin-top: 65%
+			}
+			.t-pic .out-pic {
+				margin-left: 28%;
+				margin-top: -5%
+			}
+			.t-title{
+				text-align: center;
+			}
+			
+			.series-books p {
+			    padding-top: -1%;
+			    font-size: 14px;
+			    line-height: 150%;
+			    font-family: "Source Han Sans CN Regular";
+			}
+			.series-books {
+				width: 45%;
+			    margin-top: -2%;
+			    float: right;
+			    margin-right: 0%;
+			    letter-spacing: 2px;
+		    }
+		    /*dongshouke样式*/
+		    .d-btn-group{
+		    	width: 40%;
+		    }
+		    .dsk-top .d-top-pic2 img{
+		    	width: 100%
+		    }
+		    .dsk-top .d-top-pic1 img{
+		    	width: 100%
+		    }
+		    .dsk-top a{
+		    	margin: 2% 5%
+		    }
+		    .p-sm-intro2{
+		    	padding-bottom: 5%
+		    }
+		    .e-sm-intro6{
+		    	padding-bottom: 5%
+		    }
+		    /*qiaokeli样式*/
+		    .tab table td{
+		    	font-size: 13px;
+		    	padding: 0px;
+
+		    }
+		    .tab table{
+		    	margin-top: -1%
+		    }
+		   	.q-top-intro{
+		   		margin-top: -102%
+		   	}
+		   	.tab .kctx-title{
+		   		margin-top: -209%
+		   	}
+		   	.kcjs-pic{
+		   		margin-top: 42%
+		   	}
+		   	.q-kcjs-intro{
+		   		margin-top: 0%
+		   	}
+		   	.b-class,.b-lesson,.m-class,.m-lesson,.s-class,.s-lesson{
+		   		margin-top: -1%!important
+		   	}
+		   	/*kejiguan样式*/
+		   	.k-intro{
+		   		
+		   		font-family: Source Han Sans CN Medium;
+		   		letter-spacing: 1px;
+		   		margin-top: 30px;
+		   	}
+		   	.k-intro p{
+		   		padding-top: 4px;font-size: 14px;padding-bottom: 4px;
+		   	}
+		   	.k-intro img{
+		   		padding-top: 4px;padding-bottom: 4px;
+		   	}
+		   	/*yanxue样式*/
+		   	.y-middle-pic{
+		   		height: 59%
+		   	}
+		   	/*jingsai样式*/
+		   	.j-top-pic{
+		   		height: 65%
+		   	}
+		   	.j-bottom-pic{
+		   		height: 75%;
+		   		margin-top: 12%
+		   	}
+		   	.j-table{
+		   		margin-top: 5%
+		   	}
+		   	/*shizipeixun样式*/
+		   	.box h2{
+		   		font-size: 20px;
+		   	}
+		   	.s-content1 span{
+		   		letter-spacing: 1px;
+		   		line-height: 160%
+		   	}
+
+		 .s-left-content {
+		 	line-height: 150%;
+		 	letter-spacing: 1px;
+		 	
+		 }
+		 .s-right-content {
+		 	line-height: 150%;
+		 	letter-spacing: 1px;
+		 	
+		 }
+		.s-content2{
+			height: 380px
+		}
+		.s-content3 .s-middle-intro {
+			letter-spacing: 1px;
+			line-height: 150%
+		}
+		.a-sm-pic{
+			overflow: visible;
+		}
+		.poe1{
+			padding-bottom: 5%!important
+		}
+		/*aboutus样式*/
+		.team p{
+			line-height: 150%;
+			margin-top: 15%
+		}
+		.peo2 p{
+			padding-bottom: 15%
+		}
+		
+		.peo3 p{
+			padding-bottom: 8%
+		}

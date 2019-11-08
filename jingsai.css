@@ -1,0 +1,58 @@
+
+.tab tr{
+	text-align: center;
+	vertical-align: middle;
+	margin:  5% auto;
+}
+.tab table{
+	border: 2px solid white;
+	color: white;
+	margin-bottom: 5%;
+	margin-top: 3%;
+}
+.tab td{
+	padding:1%;
+}
+.j-top-tit span{
+	 border-bottom: 3px solid #3366ff;padding-bottom: 2%;
+}
+.j-center-tit{
+        font-weight:bold;text-align: center;margin-top: 5%;color: white;
+}
+.j-center-tit2{
+       margin:auto 12%;text-align: center;color: white;margin-top: 2%
+}
+.j-bottom-tit{
+	margin-top:16%;color: #333;
+}
+.j-bottom-tit span{
+	border-bottom: 3px solid #3366ff;padding-bottom: 2%;
+}
+
+.j-bottom-intro{
+	 margin-top: 5%;font-size: 14px;color: #666;
+}
+
+.j-top-cont img{
+	-webkit-transition: all .5s;   
+            -moz-transition: all .5s;   
+            -ms-transition: all .5s;   
+            -o-transition: all .5s;   
+            transition: all .5s; 
+             color: rgb(102, 102, 102); 
+}
+.j-top-cont:hover img{
+	transform: scale(1.2);
+}
+
+.j-bottom-cont img{
+			-webkit-transition: all .5s;   
+            -moz-transition: all .5s;   
+            -ms-transition: all .5s;   
+            -o-transition: all .5s;   
+            transition: all .5s; 
+             color: rgb(102, 102, 102); 
+}
+.j-bottom-cont:hover img{
+	transform: scale(1.2);
+}

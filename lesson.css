@@ -1,0 +1,102 @@
+.banner-kc{
+	width: 100%;
+	overflow: hidden;
+}
+
+.banner-kc img{
+	width: 100%;
+	vertical-align: center;
+
+}
+
+.t-title{
+	text-align: center;
+	font-size: 24px;
+	color: rgb(51, 102, 255);
+	letter-spacing: 1px;
+	margin-top: 3%;
+	margin-bottom: 2%;
+	font-family:Source Han Sans CN Medium;
+
+}
+
+.t-pic{
+	position: relative;
+}
+.t-pic img{
+	position: absolute;
+	text-align: center;
+}
+.t-idea p{
+	margin: 3% auto;
+	width: 50%;
+	text-align: center;
+}
+.t-idea{
+	margin: 2% auto;
+}
+.t-content{
+	margin-top: 45%;
+}
+.t-pic .out-pic{
+	margin-left: 32%;
+}
+.t-pic .in-pic{
+	margin-top: 8%;
+	margin-left: 38%;
+}
+
+.gra-color{
+	/* Firefox 3.6+ */
+background: -moz-linear-gradient( 90deg, rgb(59,113,255) 0%, rgb(80,188,246) 100%); 
+/* Safari 4-5, Chrome 1-9 */
+/* -webkit-gradient(,  [, ]?,  [, ]? [, ]*) */
+background: -webkit-gradient( 90deg, rgb(59,113,255) 0%, rgb(80,188,246) 100%);
+/* Safari 5.1+, Chrome 10+ */
+background: -webkit-linear-gradient( 90deg, rgb(59,113,255) 0%, rgb(80,188,246) 100%);
+/* Opera 11.10+ */
+background: -o-linear-gradient( 90deg, rgb(59,113,255) 0%, rgb(80,188,246) 100%);
+}
+
+.t-target{
+	margin-top: 5%;
+	font-size: 24px;
+	letter-spacing: 3px;
+	font-family: "SourceHanSansCN";
+	color: white;
+	text-align: center;
+	font-family:"Source Han Sans CN Medium";
+}
+
+.tar-content{
+	width: 50%;
+	margin-bottom: 7%;
+	margin-top: 7%;
+	line-height: 200%;
+	letter-spacing: 2px;
+	 font-family: "Source Han Sans CN Regular";
+}
+
+.series-books{
+	margin-top: 3%;
+	float: right;
+	margin-right: 8%;
+	letter-spacing: 2px;
+	color: white;
+}
+
+.series-books p{
+	padding-top: 8%;
+	font-size: 14px;
+	line-height: 200%;
+	font-family: "Source Han Sans CN Regular";
+}
+.t-content-title{
+	font-size: 18px;font-family:Source Han Sans CN Medium
+}
+.t-content-title2{
+	color: rgb(51, 51, 51);width: 62%;
+}
+.l-tit{
+	margin: 2% auto;font-size: 22px;color: rgb(51,102,255);text-align: center;font-family:Source Han Sans CN Medium;
+}

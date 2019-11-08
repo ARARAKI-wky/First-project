@@ -1,0 +1,112 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.out-stl{
+	background-color: white;
+	margin-bottom: 0;
+}
+.b-inner{
+	margin-top: -25%;
+}
+.b-inner-stl{
+	border:1px solid #f2f2f2;
+	border-bottom: 2px solid #4dd2e8;
+	background-color: white;
+	z-index: 99;box-shadow: 4px 4px 10px#999;
+}
+
+.ydd  p{
+	float: right;
+	font-size: 14px;
+}
+
+.pc h4{
+	 -webkit-transition: all .5s;   
+            -moz-transition: all .5s;   
+            -ms-transition: all .5s;   
+            -o-transition: all .5s;   
+            transition: all .5s; 
+	border-bottom: 3px solid transparent;
+}
+
+.pc:hover h4{
+	border-bottom: 3px solid #4dd2e8;
+	color: #4dd2e8;
+}
+
+.yd span{
+	 -webkit-transition: all .5s;   
+            -moz-transition: all .5s;   
+            -ms-transition: all .5s;   
+            -o-transition: all .5s;   
+            transition: all .5s; 
+	border-bottom: 3px solid transparent;
+	padding-bottom: 3%
+}
+
+.yd:hover span{
+	border-bottom: 3px solid #4dd2e8;
+	color: #4dd2e8;
+}
+
+ .b-top-title{
+           margin-top: 7%;color: white;font-size:35px; 
+            }
+
+ .b-top-title2{
+ 	width: 60%;font-size: 12px;
+ }
+ .b-dsk-title{
+ 	padding: 1% 5%;background-color: #4dd2e8 ;width: 17%;font-weight: bold;font-size: 20px;color: white;letter-spacing:5px;margin-top: 4%
+ }
+.b-dsk-title2{
+	width: 24%;font-size: 20px;margin-left: 5%;margin-top: 4%;font-weight: bolder;padding-bottom: 2%;
+}
+.b-dsk-intro{
+	margin-left: 5%;margin-top: 8%;line-height: 200%;color: #666;
+}
+.b-dsk-title3{
+	 text-align: right;margin-top:16%;margin-right: 8%;font-size: 20px;font-weight: bold;padding-bottom: 3%;
+}
+.b-dsk-intro2{
+	 text-align: right;line-height: 200%;margin-top: 2%;margin-bottom: 5%;color: #666;margin-right: 6.5%;
+}
+.b-qkl-title{
+	 float: right;margin-top: 5%;padding: 1% 5%;background-color: #4dd2e8 ;width: 17%;font-weight: bold;font-size: 20px;color: white;letter-spacing:5px;
+}
+.b-qkl{
+	box-shadow: 4px 4px 10px#999;background-color:white!important;
+}
+.b-bottom{
+	border:1px solid #f2f2f2;background-color: white;box-shadow: 4px 4px 10px#999;
+}
+.b-bottom-title{
+	padding: 1% 4%;background-color: #4dd2e8 ;width: 16%;font-weight: bold;font-size: 20px;color: white;letter-spacing:3px;margin-top: 4%;font-weight: bold;
+}
+.b-qkl-intro{
+	width: 60%;height: 100%; margin-left: 5%;float: left;background-color:#2FD2CA;color: white;font-size: 14px;margin-top: 5%;padding-top: 4.7%;padding-bottom: 4.7%
+}
+.b-qkl-intro1{
+	float: left;width: 33.3%;border-right: 1px solid white
+}
+.b-qkl-intro2{
+	float: left;width: 33.3%
+}
+
+.b-qkl-intro3{
+	float: left;width: 33.3%;height: 100%;border-left: 1px solid white
+}
+
+.b-qkl-p1{
+	 margin-bottom: 10%;text-align: center;letter-spacing:3px;font-family:Source Han Sans CN Medium;font-size: 16px;
+}
+.b-qkl-p2{
+	 padding: 2% 10%;line-height: 200%;font-family:Source Han Sans CN Regular;
+}
+.b-top-pic1{
+	padding-top: 1%
+}
+.b-top-pic2{
+	padding-bottom: 100%
+}

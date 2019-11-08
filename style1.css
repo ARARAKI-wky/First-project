@@ -1,0 +1,601 @@
+@media screen and (max-width:768px) {                
+        body{
+          font-size: 12px;
+        } 
+        h1{
+          font-size: 16px;
+        }   
+        h3{
+            font-size: 16px;
+        }
+        h4{
+            font-size: 14px;
+            letter-spacing: 0px;
+        }
+        h2{
+            font-size: 15px;
+        }  
+        .navbar-default .navbar-nav{
+          margin-top: 5%;
+         width: 110%;
+         background: #EDEDED;
+         
+      }  
+      .navbar-default .navbar-toggle{
+        margin-top: 6.6%;
+        
+      }
+      .tel{
+        border: none;
+      }
+      .dropdown-menu > li{
+    text-align: left!important;
+}   
+      .navbar-default .navbar-nav > li >a{
+        margin-left: 3%;
+    border-bottom:none;
+    font-family: "Source Han Sans CN Normal";
+  letter-spacing: 1px;
+  color: #666;
+  border-bottom-width: 50%;
+  text-align: left;
+}   
+.navbar-default .navbar-nav > li >a:hover{
+    border-bottom:none;
+   
+}   
+        /*首页index样式*/
+       .rob-learn{
+        width: 100%;
+       }
+       .top4{
+        width: 100%;
+       }
+       .btn1{
+        width: 100px;
+       }
+       .btn2{
+        width:100px;
+        margin-top: 2%;
+        margin-right:3%
+
+       }
+       .software-pic{
+        width: 50%
+       }
+       .software{
+        width: 50%;
+       }
+       .software-p{
+     
+   
+       }
+       .software-t1{
+            margin-left:-20%;
+            width: 100%;
+
+       }
+       .software-t2{
+        font-size: 12px;
+        margin-left: -20%;
+        width: 100%;
+        margin-right: -20%;
+        letter-spacing: 0px;
+
+       }
+       .introduct{
+        position: relative;
+       }
+       .cont1-t1{
+        margin-top: 30%;
+        width: 50%
+               }
+        .cont1-t2{
+            margin-top: 5%;
+            width: 50%;
+
+        }
+        .cont2-t1{
+          width: 130%;
+          margin-left: -35%
+        }
+        .cont3-t1{
+          width: 48%
+        }
+        .news-pic1{
+          width: 20%;
+          margin-left: 25%
+        }
+        .news-pic2{
+          width: 60%;
+          margin-left: -35%;
+          margin-top: -15%;
+        }
+        .news-pic3{
+          margin-top: -15%;
+          width: 20%;
+          margin-left: 25%
+        }
+       .introduct2{
+        margin-top: -5%
+       }
+       .introduct{
+        margin-top: -5%
+       }
+        .bottom{
+            text-align: center;
+        }
+        .bottom div img{
+            width: 75%;
+             margin:2% auto;
+        }
+        .bottom div{
+            font-size: 12px;
+            width: 30%;
+            padding:2% 6% 2%;
+            width: 120px;
+            height: 120px;
+            margin: 3%
+
+        }
+        .lt{
+            position: absolute;
+            top: 40%;
+
+        }
+        .rt{
+            position: absolute;
+            top: 40%;
+            right: 5%
+        }
+        .list-title{
+            font-size: 12px;
+        }
+        .foot-list li{
+            font-size: 12px;
+            margin: 1%
+        }
+        .tel{
+            font-size: 12px;
+        }
+        /*bianshengruanjian样式*/
+           .b-top-title{
+            font-size: 14px;
+            margin-top: 20%;
+            width: 100%;
+           }
+           .b-top-title2{
+            margin-bottom: 1%;
+            color: #666;
+           }
+           .b-inner{
+            margin-top: -30%;
+           }
+           .b-inner-stl{
+            box-shadow: none;
+
+           }
+           .b-dsk-title{
+            font-size: 16px;
+            width: 27%;
+            padding:1% 5%;
+            font-weight: normal;
+            letter-spacing: 1px;
+           }
+           .b-dsk-title2{
+            font-size: 14px;
+            width: 100%;
+            margin-top: 3%;
+            float: left;
+            margin-bottom: 0%;
+           }
+           .b-dsk-intro{
+            font-size: 12px;
+            margin-top: 1%;
+           line-height: 150%;
+           }
+           .ydd p{
+            font-size: 12px;
+           }
+           .b-dsk-title3{
+            font-size: 14px;
+            margin-right: 2%;
+            margin-bottom: 1%
+           }
+           .b-dsk-intro2{
+            line-height: 150%;
+            width: 100%;
+            margin-right: 2%;
+            margin-top: 1%;
+            text-align: left;
+           }
+           .b-qkl{
+            box-shadow: none;
+           }
+           .b-qkl-title{
+            font-size: 16px;
+            width: 27%;
+            padding:1% 5%;
+            font-weight: normal;
+            letter-spacing: 1px;
+           }
+           .b-bottom{
+            box-shadow:none;
+          }
+          .b-bottom-title{
+             font-size: 16px;
+            width: 33.8%;
+            padding:1% 5%;
+            font-weight: normal;
+            letter-spacing: 1px;
+          }
+          .b-qkl-intro{
+            padding:0% 2%;
+            background-color:white;
+            padding-top: 0%;
+            margin-top: -2%;
+            float: left;
+            width: 100%;
+            margin-left: 0%;
+          }
+          .b-qkl-intro1,.b-qkl-intro2,.b-qkl-intro3{
+            background-color:#2FD2CA;
+            width: 100%;
+            border: none;
+            margin-top: 3%;
+
+          }
+          .b-qkl-p1{
+            font-size: 14px;
+            margin-top: 4%;
+          }
+          .b-qkl-p2{
+            font-size: 12px;
+            margin-top: -10%
+          }
+          /*lesson样式*/
+          .t-title{
+            font-size: 20px;
+          }
+          .t-content-title{
+            font-size: 14px;
+
+          }
+          .t-idea{
+            text-align: left;
+            width: 100% 
+          }
+          .t-pic{
+            margin-left: 10%;
+            margin-bottom: 2%
+          }
+          .out-pic{
+            width: 24%
+          }
+          .in-pic{
+            width: 12%
+          }
+          .t-content{
+            font-size: 12px;
+            margin-top: 25%
+          }
+          
+          .l-pic{
+            width: 17%;
+            margin: -3%;
+            margin-bottom: 1%;
+            margin-top: 1%
+          }
+          .l-pic-group{
+            text-align: center;
+          }
+          .t-target{
+            font-size: 20px;
+          }
+          .tar-content{
+            line-height: 150%;
+            margin-top: 2%;
+            width: 60%;
+            font-size: 12px;
+          }
+          .l-tit{
+            font-size: 20px;
+          }
+          .l-tit2{
+            margin-top:2%;
+            font-size: 16px;
+          }
+          .series-books p{
+            width: 100%;
+            font-size: 12px;
+            margin-top: -7%;
+            line-height: 150%;
+          }
+          /*dongshouke样式*/
+          .dsk-top a{
+            border: 1px solid #666;
+            width: 100%;
+            font-size: 12px;
+            margin: 0;
+            padding: 2px;
+            text-align: center;
+          }
+          .dsk-top{
+            text-align: center;
+            width: 100%
+            padding-bottom: 0%;
+            margin:5% 23%;
+          }
+          .d-btn-group{
+            width: 60%;
+            text-align:center;
+          }
+          .d-top-tit{
+            font-size: 16px; 
+            margin-top: -20%;
+            width: 45%; 
+            margin-left: 55%
+          }
+          .d-top-tit2{
+            width:45%;
+            font-size: 12px;
+            margin-left: 55%  
+          }
+          .d-top-intro{
+            font-size: 12px;
+            letter-spacing: 1px;
+            line-height: 150%; 
+          }
+          .d-top-pic{
+            display: none;
+          }
+          
+          .ai .ai-title{
+            font-size: 15px;
+            color: #3366ff;
+          }
+          
+          .ai:hover .underl{
+            transition: 0s;
+             background-color: #BFBBBB;
+          }
+          .ai:hover .ai-title{
+            transition: 0s;
+            color: #3366ff ;
+          }
+          .ai:hover .shadow{
+            transition: 0s;
+            opacity: 0;
+            transform: translate(0%,0%);
+          }
+         .suit .suit-title{
+            font-size: 14px;
+          }
+          .suit p{
+            font-size: 12px;
+            line-height: 150%
+          }
+          .ai .b-title{
+            color: #3366ff;
+          }
+          .ai:hover .b-title{
+            transition: 0.6s;
+            color:  #3366ff ;
+        }
+        .ai .b-title{
+          
+          margin: 2% 5% -3%;
+          padding-bottom: -5%;
+          margin-bottom: -3%
+        }
+        /*qiaokeli样式*/
+        /*kejiguan样式*/
+        .k-intro p{
+          margin-top: 5%;
+          font-size: 13px;
+          font-family: Source Han Sans CN Regular;
+          line-height: 150%;
+          color: #666;
+        }
+        .k-intro div{
+          padding: 5%;
+        }
+        .fun p>span{
+          font-size: 13px;
+        }
+        .fun{
+          padding: 3%;
+        }
+        .k-bottom-tit,.k-bottom-tit2{
+          font-size: 15px;
+          font-weight: normal;
+          text-align: center;
+        }
+        .k-bottom-intro,.k-bottom-intro2{
+          font-size: 13px;
+          line-height: 150%;
+          letter-spacing: 1px;
+        }
+        .k-bottom-cont,.k-bottom-cont2{
+          width: 100%;
+          text-align: center;
+        }
+        /*yanxue样式*/
+        .y-top-intro{
+          font-size: 12px;
+          line-height: 150%;
+        }
+        .y-table{
+          font-size: 12px;
+          padding: 1%
+        }
+        .y-top-tit{
+          width: 50%;
+          margin-left: 45%;
+          text-align: right;
+          margin-top: -10%
+        }
+       .tit3,.tit2{
+        width: 50%
+       }
+       .y-bottom-intro{
+        font-size: 13px;
+        line-height: 180%
+       }
+       /*jingsai样式*/
+       .j-top{
+        padding-left: 2.5%;
+       }
+       .j-top-tit{
+        font-size: 14px;
+        margin-top: 10%
+       }
+       .j-center-tit{
+        font-weight:bold;text-align: center;margin-top: 5%;color: white;
+       }
+       .j-center-tit2{
+       margin:auto 5%;text-align: center;color: white;margin-top: 2%;
+       }
+      .j-bottom-tit{
+        margin-top:10%;color: #333;
+        font-size: 14px;
+      }
+      .j-bottom-tit span{
+        border-bottom: 3px solid #3366ff;padding-bottom: 2%;
+      }
+      .j-bottom-intro{
+        font-size: 12px;
+      }
+      /*shizipeixun样式*/
+      .box{
+        margin-top: 8%
+      }
+      .box h2{
+        font-size: 16px;
+        width: 30%;
+       text-align: center;
+       margin-top: 1%;
+      }
+      .s-top-cont{
+        font-size: 12px;
+      }
+      .s-content1{
+        height: 100%
+      }
+      .s-content1 p{
+        font-size: 14px;
+        font-family: 
+      }
+      .s-content1 div{
+            width: 100%;
+            height: 33%;
+            margin-bottom: 2%;
+            margin-top: -5%
+        }
+        .s-content1 span{
+            font-size: 12px;
+        }
+        .s-content1-cont1{
+          margin-top: -8%
+        }
+        .s-left-content,.s-right-content{
+          width: 100%;
+          float: none;
+
+        }
+        .s-content2{
+          height:100%;
+        }
+        .s-content2 .s-left{
+          text-align: center;
+          box-shadow: none;
+          float: none;
+          width: 95%;
+          height: 50%;
+        }
+        .s-content2 .s-right{
+          text-align: center;
+          box-shadow: none;
+          float: none;
+          width: 95%;
+          height: 50%
+        }
+        .s-left-content,.s-right-content span{
+          text-align: center;
+        }
+        .s-left{
+          border: 1px solid #31C6C0;
+          border-radius: 15px;
+        }
+        .s-left-content {
+          width: 100%;
+          margin-left: -2% ;
+          font-size: 13px;
+          padding-right: 5%;
+          padding-left: 5%;
+          letter-spacing: 1.5px;
+          line-height: 180%;
+          padding-bottom: 5%
+        }
+        .s-right-content p{
+          text-align: center;
+        }
+        .s-right{
+          margin-top: 5%;
+          margin-left: 2%;
+          border: 1px solid #31C6C0;
+          border-radius: 15px;
+        }
+        .s-content2 p{
+          margin-top: -15%
+        }
+        .s-content2 span{
+          margin-bottom: 5%;
+          font-size: 13px;
+          line-height: 180%;
+          letter-spacing: 1.5px;
+          margin-left: 5%;
+          margin-right: 5%
+        }
+        .ct3-right{
+          height: 35%
+        }
+        .s-content3 .s-middle-intro{
+          margin-top: 25%;
+          width: 200%;
+          font-size: 12px;
+          line-height: 150%
+        }
+        .s-bottom-tit{
+          font-family: Source Han Sans CN Medium;
+          font-weight: normal;
+        }
+        .s-content4 .s-inner{
+          font-size: 12px;
+          line-height: 180%;
+          letter-spacing: 1px;
+        }
+       /*abvoutus样式*/
+       .team div{
+        width: 100%
+       }
+       .a-top-intro{
+        line-height: 180%
+       } 
+       .a-top-tit{
+        font-size: 18px;
+        text-align: center;
+        width: 100%;
+        margin-left: 0;
+       } 
+       .a-top-tit2{
+        font-size: 12px;
+
+       }    
+       /*company样式*/
+       .c-intro{
+        font-size: 12px;
+        line-height: 180%;
+        letter-spacing: 1px;
+       }
+}

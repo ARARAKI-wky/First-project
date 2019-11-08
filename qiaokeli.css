@@ -1,0 +1,58 @@
+.tab table{
+	border: 2px solid rgb(90,170,255);
+	color: white;
+	margin-bottom: 5%;
+	margin-top: 1%;
+	height: 60%;
+	text-align:left;
+	margin-left: 9%; text-align:left;position: absolute;z-index: 1;
+	height:400px;
+}
+
+.tab tr{
+	margin-left: 15%;
+	text-align:center;
+}
+
+.tab td{
+	padding:0.5% 1%;
+	margin-left: 15%
+}
+.tab .kctx-title{
+	margin-top: -200%;margin-left: 42.5%;width: 20%;
+}
+.q-top-intro{
+	margin-top: -95%;padding-left: 8%;padding-right: 3%;text-align: center;color: white;
+}
+
+.b-lesson{
+	width: 0%;
+-webkit-transition: all .6s;   
+            -moz-transition: all .6s;   
+            -ms-transition: all .6s;   
+            -o-transition: all .6s;   
+            transition: all .6s;
+}
+.m-lesson{
+	width: 0%;
+	-webkit-transition: all .6s;   
+            -moz-transition: all .6s;   
+            -ms-transition: all .6s;   
+            -o-transition: all .6s;   
+            transition: all .6s;
+}
+
+
+.s-lesson{
+	 -webkit-transition: all .6s;   
+            -moz-transition: all .6s;   
+            -ms-transition: all .6s;   
+            -o-transition: all .6s;   
+            transition: all .6s; 
+}
+.kcjs-pic{
+	margin-top: 45%;margin-left: 42.5%;width: 20%;
+}
+.q-kcjs-intro{
+	margin-top: 3%;padding-left: 7%;padding-right: 3%;text-align: center;color: white;
+}
